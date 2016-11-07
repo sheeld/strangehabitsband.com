@@ -1,0 +1,1 @@
+[29-Oct-2015 09:46:59 America/Detroit] PHP Fatal error:  Call to undefined function add_action() in /home/sunscrip/public_html/strangehabitsband.com/wp-content/plugins/akismet/legacy.php on line 356
